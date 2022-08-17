@@ -7,6 +7,11 @@
 " ===
 
 set nocompatible
+
+" Buffer options
+set hidden
+
+" set autochdir
 set ignorecase
 set smartcase
 set scrolloff=4
